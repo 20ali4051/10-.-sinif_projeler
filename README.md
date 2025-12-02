@@ -1,0 +1,1 @@
+# 10-.-sinif_projeler
