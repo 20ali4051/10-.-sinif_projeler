@@ -1,0 +1,10 @@
+C:\Users\FMTAL\Desktop\Ali Yiğit Demir 4051\büyük olanı bul\büyük olanı bul\obj\Debug\büyük olanı bul.csproj.AssemblyReference.cache
+C:\Users\FMTAL\Desktop\Ali Yiğit Demir 4051\büyük olanı bul\büyük olanı bul\obj\Debug\büyük_olanı_bul.Form1.resources
+C:\Users\FMTAL\Desktop\Ali Yiğit Demir 4051\büyük olanı bul\büyük olanı bul\obj\Debug\büyük_olanı_bul.Properties.Resources.resources
+C:\Users\FMTAL\Desktop\Ali Yiğit Demir 4051\büyük olanı bul\büyük olanı bul\obj\Debug\büyük olanı bul.csproj.GenerateResource.cache
+C:\Users\FMTAL\Desktop\Ali Yiğit Demir 4051\büyük olanı bul\büyük olanı bul\obj\Debug\büyük olanı bul.csproj.CoreCompileInputs.cache
+C:\Users\FMTAL\Desktop\Ali Yiğit Demir 4051\büyük olanı bul\büyük olanı bul\bin\Debug\büyük olanı bul.exe.config
+C:\Users\FMTAL\Desktop\Ali Yiğit Demir 4051\büyük olanı bul\büyük olanı bul\bin\Debug\büyük olanı bul.exe
+C:\Users\FMTAL\Desktop\Ali Yiğit Demir 4051\büyük olanı bul\büyük olanı bul\bin\Debug\büyük olanı bul.pdb
+C:\Users\FMTAL\Desktop\Ali Yiğit Demir 4051\büyük olanı bul\büyük olanı bul\obj\Debug\büyük olanı bul.exe
+C:\Users\FMTAL\Desktop\Ali Yiğit Demir 4051\büyük olanı bul\büyük olanı bul\obj\Debug\büyük olanı bul.pdb
