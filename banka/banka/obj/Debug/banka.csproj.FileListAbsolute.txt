@@ -1,0 +1,22 @@
+C:\Users\Excalibur\OneDrive\Desktop\Yazılım Ödev ve Uygulamalar\banka\banka\bin\Debug\banka.exe.config
+C:\Users\Excalibur\OneDrive\Desktop\Yazılım Ödev ve Uygulamalar\banka\banka\bin\Debug\banka.exe
+C:\Users\Excalibur\OneDrive\Desktop\Yazılım Ödev ve Uygulamalar\banka\banka\bin\Debug\banka.pdb
+C:\Users\Excalibur\OneDrive\Desktop\Yazılım Ödev ve Uygulamalar\banka\banka\obj\Debug\banka.csproj.AssemblyReference.cache
+C:\Users\Excalibur\OneDrive\Desktop\Yazılım Ödev ve Uygulamalar\banka\banka\obj\Debug\banka.Form1.resources
+C:\Users\Excalibur\OneDrive\Desktop\Yazılım Ödev ve Uygulamalar\banka\banka\obj\Debug\banka.Properties.Resources.resources
+C:\Users\Excalibur\OneDrive\Desktop\Yazılım Ödev ve Uygulamalar\banka\banka\obj\Debug\banka.csproj.GenerateResource.cache
+C:\Users\Excalibur\OneDrive\Desktop\Yazılım Ödev ve Uygulamalar\banka\banka\obj\Debug\banka.csproj.CoreCompileInputs.cache
+C:\Users\Excalibur\OneDrive\Desktop\Yazılım Ödev ve Uygulamalar\banka\banka\obj\Debug\banka.exe
+C:\Users\Excalibur\OneDrive\Desktop\Yazılım Ödev ve Uygulamalar\banka\banka\obj\Debug\banka.pdb
+C:\Users\Excalibur\OneDrive\Desktop\Yazılım Ödev ve Uygulamalar\banka\banka\obj\Debug\banka.exe.config
+E:\banka\banka\bin\Debug\banka.exe.config
+E:\banka\banka\bin\Debug\banka.exe
+E:\banka\banka\bin\Debug\banka.pdb
+E:\banka\banka\obj\Debug\banka.csproj.AssemblyReference.cache
+E:\banka\banka\obj\Debug\banka.exe.config
+E:\banka\banka\obj\Debug\banka.Form1.resources
+E:\banka\banka\obj\Debug\banka.Properties.Resources.resources
+E:\banka\banka\obj\Debug\banka.csproj.GenerateResource.cache
+E:\banka\banka\obj\Debug\banka.csproj.CoreCompileInputs.cache
+E:\banka\banka\obj\Debug\banka.exe
+E:\banka\banka\obj\Debug\banka.pdb
